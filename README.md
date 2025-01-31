@@ -1,0 +1,1 @@
+This repository demonstrates a common MATLAB error: an unhandled exception.  The `myFunction` script throws an error if the input is negative.  The solution improves error handling and provides more informative messages.  This example highlights the importance of robust error handling in MATLAB functions.
